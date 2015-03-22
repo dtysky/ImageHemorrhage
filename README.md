@@ -21,6 +21,8 @@ Image hemorrhage operation.
 border内的四项分别表示要出血的**像素值**，如果是毫米请自行换算，只需要更改数字即可，为整数。  
 opcity表示出血部分的透明度。  
 
+结果存储在**ImageRes**文件夹内。
+
 ## 作者
 
 **戴天宇(dtysky)**   
